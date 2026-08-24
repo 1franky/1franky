@@ -2,6 +2,11 @@
 
 Desarrollador enfocado en backend, IA aplicada (agentes, RAG, MCP) y automatización. Este es un resumen de mi actividad en GitHub.
 
+## 📫 Contacto
+
+- **LinkedIn:** [francisco-miztli-lopez-salinas](https://www.linkedin.com/in/francisco-miztli-lopez-salinas/)
+- **Correo:** [franciscom.290794@gmail.com](mailto:franciscom.290794@gmail.com)
+
 ## 🛠️ Stack principal
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +34,19 @@ Desarrollador enfocado en backend, IA aplicada (agentes, RAG, MCP) y automatizac
 | [test_django](https://github.com/1franky/test_django) | Experimentos con Django | Python |
 | [frankConfig](https://github.com/1franky/frankConfig) | Configuración personal (Neovim y dotfiles) | Lua · Shell |
 
-## 📊 Estadísticas
+## 📊 Lenguajes más usados
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=1franky&show_icons=true&theme=default&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=1franky&layout=compact&hide_border=true)
+Calculado a partir del código real de mis repositorios públicos (sin depender de servicios externos):
+
+```
+Java         ████████████████████░ 42.7%
+Python       ██████████████████    36.2%
+HTML         █████                 9.3%
+TypeScript   ███                   5.1%
+JavaScript   █                     1.6%
+CSS          █                     1.5%
+SCSS         █                     1.5%
+Shell        █                     1.1%
+```
+
+*Otros (< 1% cada uno): Dockerfile, Lua, PL/pgSQL, Batchfile.*
